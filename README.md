@@ -1,6 +1,6 @@
 ### Salvee ✌ Sou o Wesley Almeida 😎
 
-- 🐱‍👤 Estágiario de control desk 
+- 🐱‍👤 Estágiario
 - 📘 Estudando Phyton
 
  </div>

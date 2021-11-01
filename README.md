@@ -1,6 +1,6 @@
 ### Ótimo dia a todos! Me chamo Wesley Almeida 😎
 
-- 🐱‍👤 Estágiario
+- 👤 Estágiario
 - 📘 Estudando Phyton
 
  </div>

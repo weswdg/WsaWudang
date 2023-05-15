@@ -1,26 +1,47 @@
-### Ótimo dia a todos! Me chamo Wesley Almeida 😎
+### Olá, sou Wesley Almeida! 👋
 
-- 👤 Estágiario
-- 📘 Estudando Phyton
+---
 
- </div>
-   <a href="https://github.com/WsaWudang">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WsaWudang&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WsaWudang&layout=compact&langs_count=7&theme=dark"/>
- </div>
- 
- 
-<h3 align="left">Programas:</h3>
+#### Sobre mim
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-</div>
+- 📘 Cursando análise e desenvolvimento de sistemas
+- 👤 Apaixonado por tecnologia e sempre buscando novos conhecimentos
+- 📫 Contato de email: wsa_work@outlook.com
 
-##
+---
 
-<h3 align="left">Redes Sociais:</h3>
+#### Habilidades
+
+##### Frontend
 
 <div> 
-  <a href="https://www.instagram.com/ws_almeida_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</div>
+
+##### Backend
+
+<div> 
+  <img src="https://skillicons.dev/icons?i=python" />
+</div>
+
+##### Database
+
+<div>  
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+</div>
+
+---
+
+#### Redes Sociais:
+
+<div> 
+  <a href="https://www.instagram.com/ws_almeida_/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/wesley-almeida-860813242/" target="_blank">
+    <img alt="Linkedin-Wesley" src="https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=LinkedIn" />
+  </a>
 </div>

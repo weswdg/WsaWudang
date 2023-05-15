@@ -48,7 +48,7 @@
 
 ---
 
-  <img align="left" height="400em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WsaWudang&theme=dracula" />
+  <img align="left" height="300em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WsaWudang&theme=dracula" />
   <img align="center" height="206em" src="https://github-readme-stats.vercel.app/api?username=WsaWudang&show_icons=true&theme=dracula" />
   <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=WsaWudang&theme=dracula" alt="WsaWudang" /></p>
   

@@ -45,3 +45,12 @@
     <img alt="Linkedin-Wesley" src="https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=LinkedIn" />
   </a>
 </div>
+
+---
+
+  <img align="left" height="400em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WsaWudang&theme=dracula" />
+  <img align="center" height="206em" src="https://github-readme-stats.vercel.app/api?username=WsaWudang&show_icons=true&theme=dracula" />
+  <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=WsaWudang&theme=dracula" alt="WsaWudang" /></p>
+  
+
+
